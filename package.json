@@ -1,0 +1,17 @@
+{
+  "name": "@fearless/ssl",
+  "description": "SSL",
+  "version": "0.1.0",
+  "author": "Rodrigo Oler <https://github.com/rodrigooler>",
+  "bugs": {
+    "url": "https://github.com/fearlessjs/ssl/issues"
+  },
+  "homepage": "https://github.com/fearlessjs/ssl#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fearlessjs/ssl.git"
+  }
+}
